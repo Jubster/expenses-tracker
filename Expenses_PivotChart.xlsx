@@ -1,0 +1,14 @@
+Date,Category,Subcategory,Amount,Level
+2025-08-01,Transport,Taxi,20,Low
+2025-08-01,Dining,Restaurant,30,Medium
+2025-08-01,Grocery,Market,50,High
+2025-08-01,Transport,Taxi,10,Low
+2025-08-01,Dining,Restaurant,30,Medium
+2025-08-01,Grocery,Market,50,High
+2025-08-01,Transport,Taxi,40,Medium
+2025-08-01,Dining,Restaurant,10,Low
+2025-08-01,Grocery,Market,2,Low
+2025-08-01,Transport,Taxi,0,Low
+2025-08-01,Dining,Restaurant,50,High
+2025-08-01,Grocery,Market,40,Medium
+2025-08-01,Transport,Taxi,30,Medium
